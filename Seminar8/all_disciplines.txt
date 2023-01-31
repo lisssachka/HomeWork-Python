@@ -1,0 +1,5 @@
+Математика=math
+Русский=russian
+Литература=lit
+История=history
+Информатика=information
